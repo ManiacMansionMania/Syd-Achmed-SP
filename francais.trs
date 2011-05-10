@@ -1,0 +1,2322 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+Gehe zu %s
+Aller vers %s
+Schau an %s
+Regarder %s
+Rede mit %s
+Parler avec %s
+Gib !s an %s
+Donner !s à %s
+Gib %s
+Donner %s
+Nimm %s
+Prendre %s
+Benutze !s mit %s
+Utiliser !s avec %s
+Benutze %s
+Utiliser %s
+Öffne %s
+Ouvrir %s
+Schließe %s
+Fermer %s
+Drücke %s
+Pousser %s
+Ziehe %s
+Tirer %s
+Wechsle zu %s
+Changer %s
+!s
+!s
+%s
+%s
+%d. 
+%d. 
+>
+>
+$
+$
+%s>%c
+%s>%c
+>n
+>n
+JjNn
+OoNn
+a_button_give 5 802 803 Dd
+a_button_give 2 665 674 Ee
+a_button_pick_up 2 800 801 Ee
+a_button_pick_up 5 666 675 Dd
+a_button_use 1 794 795 Ww
+a_button_use 4 663 672 Ss
+a_button_open 3 790 791 Aa
+a_button_open 0 659 668 Qq
+a_button_look_at 0 788 789 Qq
+a_button_look_at 1 662 671 Ww
+a_button_push 7 798 799 Xx
+a_button_push 7 664 673 Xx
+a_button_close 4 796 797 Ss
+a_button_close 3 660 669 Aa
+a_button_talk_to 8 804 805 Cc
+a_button_talk_to 6 661 670 Yy
+a_button_pull 6 792 793 Yy
+a_button_pull 8 667 658 Cc
+font_320: 1  0  0  0  0  0  0  0  0  0  0  0  0  0  3  3  3  3  3  3  0
+
+font_640: 13 14 14 14 14 14 14 14 14 14 14 14 14 14 13 13 13 13 13 13 14
+
+Das ist schon zu.
+
+Das ist schon offen.
+
+error: SetString buffer error!
+
+error: GetString buffer error!
+
+@
+
+%s%c
+%s%c
+error: Talk view isn't assigned!
+
+%%%dc
+
+MMM_GO
+
+scrnshot.bmp
+
+%d.
+%d.
+Credit Module has reached maximum %d lines, contact game author and tell them to increase CREDIT_MAX_LINES
+
+%c
+
+A
+
+%4d %4d %s
+
+Credits module 1.13 by SSH
+
+*ERROR*: Konnte %s nicht zu spielbaren Chars hinzufügen.
+
+Ist bereits vorhanden.
+
+Bereits drei spielbare Chars vorhanden.
+
+*ERROR*: Hier bin ich doch :)
+
+*ERROR*: Ne, %s ist nicht in der Liste!
+
+*ERROR*: Kann %s jetzt nicht entfernen.
+
+*ERROR*: Kann %s nicht entfernen, da er nicht hinzugefügt wurde.
+
+Objekt.ID=%d
+
+Hotspot.ID=%d
+
+Wie sollen schließen das?
+
+Besser nicht.
+
+Passieren nichts.
+
+Tja, scheint nicht zu klappen.
+
+Achmed nix können sehen was.
+
+Achmed finden es blöd.
+
+Was guckst du?!?
+
+Nix sehen können!
+
+Toll.
+
+Achmed können nicht alles bewegen oder was?!?
+
+Da tut sich nichts.
+
+Achmed brauchen das nicht.
+
+Da bewegt sich nichts.
+
+Achmed nicht können öffnen.
+
+Es scheint nicht aufzugehen.
+
+Wollen nicht mit Achmed labern.
+
+Jetzt nicht.
+
+Das sein nicht gut.
+
+Das klappt so nicht.
+
+Isse niche gute.
+
+Klappen nicht.
+
+Das hab ich schon bei mir. Ich kann es nicht noch einmal aufnehmen.
+
+Wozu?
+
+Es bewegt sich nicht.
+
+Das lässt sich nicht öffnen.
+
+Das lässt sich nicht schließen.
+
+Das ist jemand anderes.
+
+Zu schwer.
+
+Das bringt nichts.
+
+Schließen? Gehts noch?
+
+Öffnen? Gehts noch?
+
+Benutzen? Gehts noch?
+
+Text
+
+Wie kann ich Ihnen dienen?
+
+Speichern
+
+Laden
+
+Spielen
+
+Beenden
+
+@OVERHOTSPOT@
+
+Pause.  Leertaste für weiter.
+
+Wählen Sie ein Spiel zum Laden
+
+Abbruch
+
+Name für das Spiel
+
+OK
+
+99.
+
+Sind Sie sicher, dass Sie aufhören wollen? (J/N)
+
+Sind Sie sicher, das Sie neustarten wollen? (J/N)
+
+Dave
+
+Syd
+
+Michael
+
+Wendy
+
+Bernard
+
+Razor
+
+Jeff
+
+Dr. Fred
+
+Nurse Edna
+
+Weird Ed
+
+Meteor
+
+Green Tentacle
+
+Purple Tentacle
+
+Mark Eteer
+
+Wink Smiley
+
+Police
+
+Sandy
+
+Marcy
+
+Britney
+
+Mandy
+
+Andy
+
+Koslowski
+
+Radiosprecher
+
+Postbote
+
+Achmed
+
+TVGirl
+
+Ashley
+
+Fernbedienung
+
+dummy
+
+No hotspot
+
+Hotspot 1
+
+Hotspot 2
+
+Hotspot 3
+
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Hotspot 7
+
+Hotspot 8
+
+Hotspot 9
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+Hotspot 20
+
+Hotspot 21
+
+Hotspot 22
+
+Hotspot 23
+
+Hotspot 24
+
+Hotspot 25
+
+Hotspot 26
+
+Hotspot 27
+
+Hotspot 28
+
+Hotspot 29
+
+Hotspot 30
+
+Hotspot 31
+
+Hotspot 32
+
+Hotspot 33
+
+Hotspot 34
+
+Hotspot 35
+
+Hotspot 36
+
+Hotspot 37
+
+Hotspot 38
+
+Hotspot 39
+
+Hotspot 40
+
+Hotspot 41
+
+Hotspot 42
+
+Hotspot 43
+
+Hotspot 44
+
+Hotspot 45
+
+Hotspot 46
+
+Hotspot 47
+
+Hotspot 48
+
+Hotspot 49
+
+_tv_44_view_ 81
+
+Und natürlich Briefmarke nicht vergessen!
+
+Schalten sie auch Morgen wieder ein.
+
+Start
+
+[]~
+
+Sandy-Starterpack]
+
+Rulaman
+
+]BETA-Tester]
+
+Rayman
+
+Link1991
+
+Kaktus
+
+]Graphiken]
+
+und DarthConan
+
+Postbote, Putzutensilien Rayman
+
+]Übersetzung für AGS 3.0]
+
+]AdventureGameStudio 3.0]
+
+Chris Jones
+
+]Credit-Modul:]
+
+SSH
+
+]Diese Episode:~
+
+<Autor>
+
+ [Idee:]
+
+] [zusätzliche Grafiken:]
+
+] [zusätzliches Skripting:]
+
+] [gewidmet:]
+
+allen Adventure-Freunden
+
+]~
+
+Hallo Leute!
+
+Willkommen zu meinem AGS-Starterpack!
+
+Lauft ein bisschen herum...
+
+...schaut euch alles an...
+
+...dann seht ihr wie und wo ich wohne.
+
+Sein Syds Schlagzeug. Manchmal ich höre ihn.
+
+Mein Schlagzeug.
+
+Das benutze ich auch in der 'Wink Smiley Show'.
+
+Das ist Syds Schlagzeug
+
+Achmed nix brauchen Zeug zum Schlagen.
+
+Das sollen die Leute vom Umzugsservice machen. Die schleppen das auch immer zu Wink.
+
+Ich nehm doch nicht anderer Leute Schlagzeug mit.
+
+Achmed fehlen Stöck um zu machen Musik. Sonst gerne Achmed würden tun.
+
+Hmmm...
+
+Ich hab' die Stöcke verbummelt.
+
+Ich spiele kein Schlagzeug
+
+Nein.
+
+Die Bespannung ist noch ganz brauchbar.
+
+Das würde das Scvhlagzeug beschädigen.
+
+Zu sein.
+
+Das ist bereits fest verschlossen.
+
+Diese Aktion führt nicht zum erwarteten Ergebnis.
+
+Zu schwer sein für Achmed.
+
+Was du alles willst.
+
+Hier liegen Syd nachts. Alleine. Wie immer.
+
+Hier liege ich nachts.
+
+...
+
+Alleine.
+
+Wie immer...
+
+Ein Bett. Es gehört Syd.
+
+Achmed selber haben Bett.
+
+Du nur nicht sehen.
+
+Das sollen die Möbelpacker machen.
+
+Das ist mir zu schwer.
+
+Syds Bett?
+
+Du machen Spiel aus. Achmed wollen keine Zeugen.
+
+Jetzt ist nicht die Zeit zum Schlafen.
+
+Auch wenn wir nur in einem Starter-Pack sind.
+
+Jetzt? Hmm...
+
+Nicht aufzugehen scheinen.
+
+Ich habe kein Kastenbett, dass man öffnen könnte.
+
+Das Bett lässt sich nicht öffnen.
+
+Wo sich nichts öffnen lässt, lässt sich auch nichts schließen.
+
+Das Bett ist gemacht. Also, was genau soll ich?
+
+Achmed nix verrücken Bett.
+
+Nein, das mache ich nicht.
+
+Das wäre eine interessante Alternative zum Tischerücken.
+
+Syds Ohrmuschel. Ab und an Syd mit mir telefonieren.
+
+Mein Telefon.
+
+Irgendwann wird mich jemand anrufen...
+
+...und mir einen Plattenvertrag anbieten!
+
+Ein Telefon. Es gehört Syd.
+
+Achmed selber haben Ohrmuschel.
+
+Ich könnte das Kabel aus der Telefondose ziehen...
+
+... aber dann habe ich keine Verbindung mehr.
+
+Also lasse ich es sein.
+
+Syd braucht sein Telefon.
+
+Klasse. Aber Achmed niemand haben zum anrufen.
+
+Nö.
+
+Wen sollte ich denn anrufen?
+
+Auf Syds Kosten telefonieren? Gute Idee. Aber wen rufe ich an?
+
+Achmed nicht wollen zerstören Ohrmuschel von Syd.
+
+Da lässt sich nur die Lautstärke ändern. Sonst nichts.
+
+Ohrmuschel stehen gut.
+
+Das würde Syd bemerken.
+
+Syds Gitarre sein.
+
+Meine Gitarre.
+
+Ich spiele ziemlich gut.
+
+Eine Gitarre, vermutlich gehört sie Syd.
+
+Achmed nichts wollen mit Gitarre.
+
+Vielleicht später.
+
+Das wäre was, aber die Oberfläche ist so enpfindlich, dass Syd es bemerken würde, wenn ich sie anfasse.
+
+Achmed nicht können spielen.
+
+Keine Chance.
+
+BenutzeGitarre
+
+Der Typ, der unter mir wohnt...
+
+... läuft dann wieder Amok!
+
+Ach ne, da wohnt ja jetzt Achmed.
+
+Ich kann leider nicht spielen.
+
+Du haben lustiges Idee.
+
+Dadurch wird sie nur kaputt.
+
+Ich habe keine Ahnung, was man an einer Gitarre öffnen könnte.
+
+Gitarre sein bereits zu.
+
+Da gibt es nichts zu schließen.
+
+Achmed nix wollen verrücken Gitarre.
+
+Die steht da ganz gut.
+
+Achmed nix wollen verrücken Gitarre
+
+Syds Buch.
+
+Mein Buch.
+
+Mein einziges Buch.
+
+EIN Buch. Recht mager für einen Musiker.
+
+Achmed bereits gelesen. War langweilig. Brauchen nicht mitzunehmen.
+
+Achmed bereits gelesen. War langweilig.
+
+Es ist ein Buch über Musik.
+
+Achmed kennen Buch.
+
+Ich kenne es mittlerweile auswendig.
+
+'Für den effektiven Einsatz eines Schlagzeuges, bedarf es zunächst einmal zweier Schläger.
+
+Die Schläger, deren Holz...
+
+...'
+
+Starkes Stück.
+
+Lustiges Idee.
+
+Das ist bereits zu.
+
+Buch scheinen festgeklebt, oder Achmed nicht fest genug versucht hat.
+
+Das steht da ganz gut.
+
+Ein Pokal. Syd haben bekommen für bekloppt sein auf Schlagzeug.
+
+Mein Pokal...
+
+... für das Beste Schlagzeug-Solo...
+
+Ein Pokal. Den hat Syd bekommen, weil er gut schlagzeugen kann.
+
+Syd haben Achmed mal auf Finger beklopft, als Achmed ihn anfassen wollte.
+
+Er ist sauber poliert. Wenn ich ihn anfasse, bekommt er wieder Fettflecken.
+
+Ein sauber polierter Pokal.
+
+Achmed nix haben rein zum tun.
+
+Schön...
+
+Man könnte einen Trinkpokal daraus machen, aber...
+
+???
+
+Geht's noch?
+
+Das war eine völlig sinnfreie Aktion.
+
+Achmed nix gut in Pokale rücken.
+
+Der steht da ganz gut.
+
+Syds Chuck.
+
+Auch ich habe einen Chuck.
+
+Es ist einer der vielen Ableger von Dr. Freds Chuck.
+
+Eine Topfpflanze. Die erinnert mich stark an etwas.
+
+Achmed nicht sonderlich können mit Pflanzen.
+
+Lieber nicht. Manchmal beißt er.
+
+Aua. Sie hat mich gebissen.
+
+Erde von Pflanze sein feucht genug.
+
+Ich habe ihn erst heute Morgen gegossen.
+
+Und mit was bitte?
+
+Eine Pflanze? Das macht irgendwie keinen Sinn.
+
+Chuck stehen gut.
+
+Chuck steht da ganz gut.
+
+Ich klaue Syd doch nicht seinen Chuck...
+
+... obwohl er es verdient hätte.
+
+New Wave.
+
+Interessant.
+
+Ach ja...
+
+Ich träume immer noch davon...
+
+...eine eigene Band zu gründen.
+
+Einfache Buchstaben. Große Bedeutung.
+
+Warum?
+
+Dann wären Buchstaben weg.
+
+Das sind doch nur Buchstaben.
+
+Buchstaben an der Wand... brauche ich nicht.
+
+Achmed nicht verstehen.
+
+Teuer ausschauen.
+
+Das Teil hat mich ein Vermögen gekostet.
+
+Das scheint ziemlich teuer zu sein.
+
+Zu schwer sein.
+
+Die scheint mir zu schwer zum heben.
+
+Wo gehen ein?
+
+Cooler Sound.
+
+Leider nicht von mir...
+
+Das laß ich mal lieber sein.
+
+Die lässt sich nur ein- und ausschalten.
+
+Das bringt mir nichts.
+
+Die lässt sich nur anschauen und benutzen.
+
+Achmed können nix erkennen, was interessant wäre.
+
+Ich sehe die Wand des Nachbarhauses.
+
+Leider keine Fenster auf dieser Seite...
+
+Fenster sein fest gemacht.
+
+Und wie genau stellst du dir das vor?
+
+Das macht keinen Sinn.
+
+Achmed leicht frieren. Fenster bleiben zu.
+
+Es ist zu kalt draussen.
+
+Fenster schon zu sein.
+
+Warum sollte ich das zu'ne Fenster nochmals schließen?
+
+Tür>v
+
+Stereo-Anlage
+
+Fenster
+
+Schild
+
+Tür
+
+Schlagzeug
+
+Bett
+
+Telefon
+
+E-Gitarre
+
+Buch
+
+Pokal
+
+Chuck
+
+Wo ist der Käse?
+
+Hehehehe...
+
+Der ist mir zu schwer.
+
+Der ist doch schon offen.
+
+Damit er umfällt?
+
+Syds Tisch sein.
+
+Das ist mein Tisch. An ihm esse ich immer.
+
+Ein Tisch, der in der Küche steht.
+
+Achmed haben selber Tisch.
+
+Vielleicht sollte ich ihn einfach nehmen.
+
+Vielleicht lasse ich ihn lieber stehen.
+
+Achmed nix haben Hunger.
+
+Später. Zur Zeit habe ich keinen Hunger.
+
+Achmed sich fragen, wie sollen das machen?
+
+Achmed nix wollen umschubsen Tisch.
+
+Gerät zum heiß machen von Sachen. Achmed wollten mal Katze trocknen.
+
+Zum Glück haben Syd, Achmed davon abgehalten.
+
+Meine Mikrowelle. Leer!
+
+Früher hab' ich schlimme Sachen damit gemacht...
+
+Achmed haben selber Heiß-mach-Dingens.
+
+Plinggg.
+
+Ich hab grad kein Ei bei mir.
+
+Machen Scherz mit Achmed?
+
+Die ist schon auf.
+
+Das nix bringen Achmed.
+
+Die steht da schon richtig.
+
+Fernbedienung sein.
+
+Die Fernbedienung.
+
+Klasse.
+
+Geladene Stromgeneratoren drin sein.
+
+Im Batteriefach sind zwei voll geladenen Akkus, sonst nichts.
+
+Schon zu sein.
+
+Das Batteriefach ist bereits zu.
+
+Achmed besser nehmen.
+
+Vielleicht sollte ich sie einfach nehmen.
+
+Syd haben altes Fenrseher.
+
+Mein Fernseher.
+
+Sollte in keinem Haushalt fehlen!
+
+Ein normaler Röhrenfernseher. Alt, aber absolut tauglich.
+
+Ja, vielleicht sollte ich ihn einfach nehmen. Aber er ist ziemlich schwer.
+
+Ich verschiebe das auf später.
+
+Achmed brauchen Fernbedienung.
+
+Er steht zu weit oben.
+
+Ich brauche die Fernbedienung!
+
+Achmed nix wollen machen kaputt Seherfern von Syd.
+
+Ich brauche momentan keine elektronischen Bauteile.
+
+Der Deckel ist bereits zu.
+
+Nix da.
+
+Dann fällt er herunter.
+
+Bingo!
+
+Syds Kühlschrank sein.
+
+Mein Kühlschrank.
+
+Echt cool.
+
+Ein Kühlschrank. Er ist Bestandteil der Wohnung.
+
+Scherzkeks!
+
+Leer!
+
+Ich müsste mal wieder zum Markt runter...
+
+Bereits zu sein.
+
+Gib's auf, der ist schon zu.
+
+Dingens zum heiß machen.
+
+Meine Mikrowelle.
+
+Echt heiss.
+
+Eine Mikrowelle.
+
+Vergiss es.
+
+Achmed könnten nehmen, und packen in Karton. Aber sonst bereits sein zu.
+
+Unsinnige Aktionen bringen kein gutes Ergebnis.
+
+Stehen gut da.
+
+Bewegt sich nicht.
+
+Fernseher
+
+Kühlschrank>o
+
+Mikrowelle>o
+
+Kühlschank>c
+
+Tisch
+
+Mikrowelle (offen)>c
+
+Play-Mummy %d.
+
+Den kaufe ich mir jedes Jahr.
+
+Achmed nix brauchen tote eingewickelte nackte Frauen auf Blätter.
+
+Lassen wir ihn wo er ist.
+
+Nett sein.
+
+Ich blätter erst nächsten Monat um, damit die Spannung bleibt.
+
+Viele eingewickelte Frauen räkeln sich mehr oder weniger auf den einzelnen Blättern dieses Kalenders.
+
+Mache estethisch, manche leicht anzüglich. Aber immer so, dass man gerade so nichts sieht.
+
+Achmed nicht schrauben an Syds Kalender. Achmed einmal versucht...
+
+Wenn ich ihn schließe zeigt er nur das Deckblatt.
+
+Aber dann weiß ich das aktuelle Datum nicht mehr.
+
+Dann fällt er nur runter.
+
+Achmed auch haben Haken für Schlüssel.
+
+Hier hänge ich immer meine Schlüssel auf.
+
+Hey, wo sind denn meine Schlüssel?
+
+Ein Schlüsselhaken. Scheinbar ohne Schlüssel.
+
+Sein festgemacht an Wand.
+
+Hnngh. Sitzt verdammt fest in der Wand.
+
+Achmed nix wollen seine Schlüssel hängen an Haken von Syd.
+
+Ich habe keinen Schlüssel den ich aufhängen könnte.
+
+Witzbold.
+
+Was sollen Achmed?
+
+Was soll ich denn damit?
+
+Poster von Syd sein. Achmed vergessen, wer Mann auf Poster.
+
+Oh man, dieses Poster ist sooo alt.
+
+Wer ist eigentlich dieser Ron Gilbert?
+
+Ein Poster aus vergangenen Tagen.
+
+Achmed nix zerstören Poster oder Wand von Syd.
+
+Dann geht die Tapete kaputt!
+
+Jaja!
+
+Poster sein festgemacht.
+
+Das Poster lässt sich nicht von der Wand lösen.
+
+Das Poster ist fest mit der Wand verklebt. Nur mit viel Geduld bringt man es von der Wand.
+
+Wenn ich es von der Wand lösen könnte, dann kann ich es zusammenrollen.
+
+Fest an Wand gemacht sein.
+
+Das sitzt fest an der Wand.
+
+Kalender
+
+Schlüsselhaken
+
+Poster
+
+Schranktür
+
+Leerer Schrank sein.
+
+Warum ist der denn leer?
+
+Gut, dass nebenan ein Supermarkt ist.
+
+Ein leeres Badezimmerschränckchen.
+
+Achmed selber haben einen.
+
+Das macht in meinen Augen keinen Sinn.
+
+Dann fällt es von der Wand.
+
+Das sein Kette für Toilette.
+
+Die Klospülung.
+
+Geht nicht ab.
+
+Die ist am Spülkasten festgemacht.
+
+Krass!
+
+Toller Sound!
+
+Achmed könnten nehmen Zange...
+
+Ich könnte ein Glied auseinanderbiegen und den Handgriff abnehmen, aber dann kann ich nicht mehr richtig das Klo spülen.
+
+Nix.
+
+Das geht nicht.
+
+Syds Schrank.
+
+Mein kleiner Schrank.
+
+Ein guter Platz für Duschgel, Haargel, Spargel...
+
+Ach nein. Der Spargel kommt in den Kühlschrank.
+
+Ein kleiner Schrank.
+
+Der ist an der Wand festgemacht.
+
+Leer sein.
+
+Das Schränckchen ist bereits geschlossen.
+
+Dann fallen von Wand.
+
+Damit es von der Wand fällt?
+
+Achmed mal wieder krass aussehen.
+
+Mann, ich sehe sooo cool aus.
+
+Seht euch vor Ladys.
+
+Syd ist in der Stadt.
+
+Ist da ein graues Haar?
+
+Neee.
+
+Der geht nix ab.
+
+Dann hab ich keinen Spiegel mehr, in dem ich mich morgens betrachten könnte.
+
+Was soll ich mit einem Spiegel?
+
+Der will nicht öffnen.
+
+Der lässt sich nicht öffnen.
+
+Der will nicht schließen.
+
+Der lässt sich nicht schließen.
+
+Hnngh.
+
+Das sein wie Strand im Haus.
+
+Aber ohne Sand.
+
+Meine Badewanne. In ihr nehme ich jeden Samstag ein heißes Bad.
+
+Eine handelsübliche Badewanne.
+
+Wie Achmed sollen schaffen das?
+
+Das schaffe ich nicht allein.
+
+Achmed brauchen kein Bad jetzt.
+
+Dann schalt mal ab. Ich zieh mich derweil aus und nehme ein schönes Bad.
+
+In fremder Leute Badewanne?
+
+Diese Badewanne besitzt bereits ab Werk eine große Öffnung.
+
+Die Öffnung an der Badewanne lässt sich nicht schließen.
+
+Du geben Achmed nix guten Ratschlag.
+
+Fällt dir nichts besseres ein?
+
+Der können Wasser machen.
+
+Mein Waschbecken.
+
+Syds Waschbecken.
+
+Achmed brauchen nicht waschen Hände.
+
+Dumm di dumm.
+
+So fertig, meine Hände sind jetzt wieder sauber.
+
+Geht nix.
+
+Der Abfluss ist nicht verstopft, also gibt es dazu keinen Grund.
+
+Der Abfluss ist bereits montiert.
+
+Das der Ort sein, wo man macht 'Geschäft'.
+
+Seit wann machen damit Geld?!?
+
+Mein gutes Klo. Auf ihm habe ich schon viele \"Sitzungen\" gehabt.
+
+Eine Kloschüssel. Diese hier steht in Syds Wohnung.
+
+Geht klar Cheffe.
+
+Ja klar.
+
+Du machen aber Spiel aus, wenn Achmed macht sein 'Geschäft', klaro?!?
+
+Dreh dich mal um...
+
+Achmed nicht scharf sein zu sehen, was sein im Klo.
+
+Zur Zeit verspüre ich kein Bedürfnis.
+
+Sein schon zu.
+
+Der Deckel ist schon zu.
+
+Nix bewegt sich.
+
+Das bewegt sich nicht.
+
+Klospülung
+
+kleiner Schrank
+
+Spiegel
+
+Badewanne
+
+Waschbecken
+
+Toilette
+
+Kleiner Schrank
+
+Ich sollte wohl klingeln.
+
+Achmed sich stets fragen: Was sein hinter Tür?
+
+Was war nochmal hinter dieser Tür?
+
+Vielleicht Labor oder Schrank mit Besen?
+
+Besenkammer? Waschküche? Keller?
+
+Verschlossen sein.
+
+Die ist verschlossen.
+
+Ist schon zu.
+
+Das sein sehr viele schöne Kasten.
+
+Jeder Mieter hat hier einen eigenen Briefkasten.
+
+Wo Achmeds bloß sein?
+
+Welcher gehört mir eigentlich?
+
+Achmed nix brauchen Briefdings.
+
+Wo haben Achmed seinen Schlüssel?
+
+Ich habe den Schlüssel nicht dabei...
+
+Ohne Schlüssel?
+
+Und da ich momentan keine davon brauche, lass ich es.
+
+Sein zu.
+
+Die sind schon zu.
+
+Gut.
+
+Das sein Achmeds Türklingel.
+
+Das ist Achmeds Türklingel.
+
+Nix öffnet.
+
+Es öffnet niemand.
+
+Löschen von brennenden Feuer.
+
+In dem Kasten ist der Feuerlöscher.
+
+Wo brennt?
+
+Das ist so Vorschrift.
+
+Nix brennt, also Achmed auch nicht brauchen.
+
+Hier sein kein Feuer!
+
+Nein, nur in Notfällen!
+
+Nix Notfall jetzt.
+
+Sollen umfallen, ja?
+
+Das sein Eimer für Müll.
+
+Das ist der Mülleimer.
+
+Nein Effendi.
+
+Achmed nix haben zum tun rein.
+
+Wenn ich was habe zum Reinwerfen.
+
+Das sein bereits auf.
+
+Ist bereits auf.
+
+Eimer nix haben Deckel.
+
+Der hat keinen Deckel.
+
+Pffft.
+
+Sein Lüftungsschacht.
+
+Ein Lüftungsschacht.
+
+Keine Lust.
+
+Das bleiben zu.
+
+Das erinnert mich an früher, als ich hier mal ein Stück Käse versteckt hatte...
+
+Eisentür
+
+Briefkästen
+
+Türklingel
+
+Feuerlöscher
+
+Mülleimer
+
+Lüftungsschacht
+
+nach draußen
+
+nach oben
+
+Achmed sollten vorher klingeln.
+
+Hier niemand wohnen.
+
+Hier wohnt zur Zeit niemand.
+
+Tür sein fest.
+
+Die Tür ist fest mit dem Rahmen verbunden.
+
+Achmed nix benutzen wollen.
+
+Tür sein geschlossen zu.
+
+Abgeschlossen.
+
+Naja. Es ist ja auch nicht meine Wohnung.
+
+Tür sein doch schon zu.
+
+Die Tür ist bereits zu.
+
+Achmed nix verstehen das.
+
+Ähhh... nein.
+
+Ich sollte hier mal ein Namensschild anbringen.
+
+Klingel von Syd.
+
+Sobald mir mein Nachname wieder eingefallen ist...
+
+Syd sein Achmeds Freund.
+
+Deckel bleiben drauf.
+
+Ich lass die Abdeckung lieber drauf.
+
+Syd nicht machen auf. Vielleicht er nicht zuhause sein.
+
+Außer mir wohnt niemand da drin.
+
+Mister äh... 'Syd' scheint nicht da zu sein. Wie heißt der eigentlich sonst noch?
+
+Achmed nix machen das kaputt. Sonst immer heißen Achmeds Landsleute seien Baraber.
+
+Nix können schließen hier.
+
+Die Abdeckung ist bereits drauf.
+
+Schild zeigen nichts an.
+
+Da steht nichts drauf.
+
+Hinterher Achmed wieder Schuld...
+
+Dann fehlt aber eine Klingel.
+
+Huch.
+
+Achnmed sagen: \"NEIN\".
+
+Achmed kriegen nicht lose.
+
+Die ist festgemacht.
+
+Tür>o
+
+1. Etage
+
+Hier nebenan ist der 'S-MART' und weiter links...
+
+...ist der 'Pizza Shack' von Jeffs Eltern.
+
+Das sein Treppe zu Achmeds Wohnung.
+
+Das ist die Treppe zu meiner Wohnung.
+
+Achmed nicht verstehen dich.
+
+Leeres Plakat das sein.
+
+Das sein gutes Platz für Hinweis in fertiges Eppi.
+
+Ein Plakat.
+
+Ohne Aufdruck...
+
+Ein guter Platz für einen Hinweis...
+
+...in einer fertigen Episode.
+
+Achmed nix nehmen \"Ronville-News\" mit. Achmed sein braves Bürger.
+
+Dann kann es keiner mehr lesen...
+
+... sobald etwas draufsteht.
+
+Hihihi...
+
+Hahaha...
+
+Klingelknöpfe.
+
+Recht nützliche Erfindung.
+
+Achmed haben genug von solchen.
+
+Die bleiben schön an der Wand.
+
+Und nachher schimpfen alle über Achmed.
+
+Aus dem Alter für Klingelstreiche...
+
+...bin ich echt raus!
+
+Achmed nix wollen Schlag von Strom bekommen.
+
+Ich könnte die Kabel dahinter vertauschen...
+
+aber das wäre dasselbe wie ein Klingelstreich.
+
+Die sitzten bereits fest und verschlossen im Halteblech.
+
+NEIN.
+
+Keiner der Knöpfe klemmt.
+
+Hausnummer 4b.
+
+Hier haben Achmed seine eigene Wohnung
+
+Hier hab' ich meine eigene Bude...
+
+Zu weit oben für Achmed.
+
+Ich komme nicht ran.
+
+Wie soll ich die denn benutzen?
+
+Zu weit oben - sein.
+
+Da geht es nach nebenan... zum Pizza Shack.
+
+Schwarzes Dings lassen nicht zu.
+
+Der Teerbelag ist nicht flexibel genug.
+
+Plakat
+
+Klingelknöpfe
+
+Hausnummer
+
+Straße
+
+Hi, Ash!
+
+Hi, Syd!
+
+Hi, Ashlay!
+
+Hi, Achmed!
+
+Aber es heißt eigentlich Ashley!
+
+Hi, Ashley!
+
+Hi!
+
+Eine Kettensäge.
+
+Ashlay können machen gute Sachen damit.
+
+Es heißt Ashley, Achmed.
+
+Ash kann echt gut damit umgehen.
+
+Achmed müssen kaufen.
+
+Früher haben Achmed einfach mitgenommen. Aber in Ronville, Achmed das können nicht mehr machen.
+
+Die kann ich nicht einfach nehmen.
+
+Die kann ich nicht einfach benutzen.
+
+Das ist ein Laden.
+
+Ich müsste sie also erst mal kaufen.
+
+Zu weit weg.
+
+Ein Gewehr.
+
+Ashlay können gut mit Gewehr.
+
+Ash weiß alles über diese Geräte.
+
+Es heißt Ashley, Achmed
+
+Das sein elektronische Ohrmuschel.
+
+Ein Telefon.
+
+Ashlay würden benutzen Gewehr mit Achmed.
+
+Ash hätte etwas dagegen.
+
+Achmed haben eigenes Telefon.
+
+Ash, kann ich mal telefonieren?
+
+Sorry, Syd.
+
+Dafür haben wir den Münzfernsprecher neben der Tür.
+
+Auch gut.
+
+Mister Ashley, darf ich mal telefonieren.
+
+Gerne. Dort hinten an der Wand ist ein Münzfernsprecher.
+
+Ah, danke.
+
+Ashlay nicht mögen das.
+
+Es heißt Ashley, Achmed!
+
+Hauswaren-Abeilung.
+
+Kauf smart - kauf im S-Mart!
+
+Das sein Seherfern.
+
+Ein Fernseher hängt an der Decke.
+
+Manchmal spielt Ash hier Werbe-Videos ab.
+
+Achmed nix wollen schauen fern.
+
+Der ist aus.
+
+Ash, kannst du mal den Fernseher einschalten?
+
+Geht klar, Syd.
+
+Ich kann ihn nicht anmachen.
+
+Würden Ashlay, Achmed nie erlauben.
+
+Mal sehen...
+
+Sein Achmed zu schwer.
+
+Der Automat ist mir zu schwer.
+
+Würde Achmed nie erlauben, Ashley.
+
+Sein Ohrmuschel-Münze.
+
+'Payphone' klingt eigentlich besser.
+
+Egal.
+
+Laß den bloß hängen Achmed.
+
+Schade.
+
+Echt Schade.
+
+Obwohl sicher Kleingeld im Fernsprecher ist, lasse ich ihn lieber hängen.
+
+Ash beobachtet mich nämlich.
+
+Ich hab' kein Kleingeld dabei...
+
+Und ich hab' ein eigenes Telefon in der Wohnung.
+
+Ashlay würden Achmed nie erlauben.
+
+Bildschirm
+
+Münzfernsprecher
+
+Kettensäge
+
+Gewehr
+
+Wir unterbrechen das aktuelle Programm für eine Sondermeldung!
+
+Wie soeben bekannt gegeben wurde...
+
+...steht das 'Syd-Starterpack' für Maniac Mansion Mania...
+
+...jetzt zum Download bereit!
+
+Erstellt wurde das Starterpack von...
+
+'Mister L'
+
+Zusätzliche Grafik von 'DernetteEddy'.
+
+angepasst auf die AGS-Version 3 von Rulaman.
+
+Besonderer Dank an die Beta-Tester 'Zensiert', 'Orange' und 'khrismuc'!!!
+
+und Indy für das Beta-Testen der neuen 3er Version.
+
+Und nun zurück zum laufenden Programm.
+
+Willkommen zur 'Wink Smiley Show'!
+
+Unsere Gäste sind heute...
+
+Der schleimige 'Mr. Meteor'...
+
+...dessen Lebensgeschichte zu einem Millionen-Seller geworden ist.
+
+Und Mrs. Britney Bernoulli, die mit der Veröffentlichung...
+
+...ihres Tagebuches für Aufsehen bei den Lesern und der Jugendschutz-Behörde sorgte!
+
+Die Live-Musik kommt heute von den Bands...
+
+'Razor and the Scummetts' sowie von...
+
+'Grün Tentakel und den Saugnäpfen'!
+
+'Woodie's Pizza Shack'.
+
+Der Eingang zu 'Woodie's Pizza Shack'.
+
+Gute Idee, aber es hapert an der Umsetzung.
+
+Zu!
+
+Unser Lokal öffnet erst heute abend, Achmed.
+
+Wenn du 'ne Pizza willst, dann komm' hier rüber.
+
+Später vielleicht.
+
+Wie du meinst...
+
+Geschlossen!
+
+Unser Lokal öffnet erst heute abend, Syd.
+
+Unser Lokal öffnet erst heute abend.
+
+Was machst du da?
+
+Ähh.
+
+Lass das brav bleiben.
+
+Leere Plakate das sein.
+
+Plakate.
+
+Noch ein guter Platz für einen Hinweis...
+
+Und was soll das bringen?
+
+Weg zu S-Mart-Ashlay.
+
+Da geht's zum S-Mart.
+
+Straße sein unkoporzativ.
+
+Das lässt die Straße nicht mit sich machen.
+
+Eingang
+
+Hallö, Effendi!
+
+Sei Willkommen in Achmeds Heim.
+
+Du können machen mit Achmed viele Sachen.
+
+Besuchen können wir Jeff vom Pizza Laden oder Syd, der leben über Achmed.
+
+Aber du schließlich sollen entscheiden, wo du gehen hin willst.
+
+Leer sein oder was?!?
+
+Diese Schublade ist leer.
+
+Achmed nix brauchen.
+
+Was soll ich mit einer Schublade?
+
+Sein schon auf.
+
+Dann fällt sie nur heraus.
+
+Das sein einfache Schublade.
+
+Eine Schublade.
+
+Ziehen oder öffnen wäre einfacher.
+
+Die ist doch schon zu.
+
+Berno haben Achmed ein paar Bücher geschenkt.
+
+Berno sein sehr krasser Typ.
+
+Achmeds Bücher.
+
+Achmed nicht brauchen Bücher zum schleppen.
+
+Die brauche ich nicht.
+
+Achmed wollen jetzt nicht lesen Bücher.
+
+Bücher über Physik, die deutsche Sprache und Algerien.
+
+Bücher sein bereits zu.
+
+Das die Bücher verschlossen sind, halte ich das für überflüssig.
+
+Achmed wollen jetzt nicht verrücken Bücher.
+
+Du weißt schon was du tust, ja?
+
+Achmed haben den gepflückt in der Wüste Algeriens.
+
+Achmed hätte wissen müssen, dass dies Ding machen können 'AUA'!
+
+Ein Kaktus. Laut Achmed, einer aus algeriens Wüste.
+
+AUA
+
+Wo du wolle?
+
+Das würde Achmed nicht gefallen.
+
+Das sein Achmeds Onkel Sallah beim Werfen von Messern.
+
+Als gemacht wurde Foto, Onkel danach haben einen seiner Messer voll in seine Hand bekommen.
+
+Er gejault haben wie Schwein am Spies dabei.
+
+Achmed nie vergessen können dies Bild.
+
+Achmed schließlich passieren dies manchmal auch.
+
+Ein Bild. Anscheinend Achmeds große Familie.
+
+Bild sein fest gemacht.
+
+Es hängt an der Wand und da soll es auch bleiben.
+
+Nix gute Aktion.
+
+Das bringt nichts. Wirklich.
+
+Das sein Achmeds Bett.
+
+Achmeds Bett.
+
+Das sein Achmed zu schwer.
+
+Das lass ich lieber stehen wo es ist.
+
+Achmed nicht müde sein.
+
+Scheint mir gemütlich...
+
+... aber jetzt nicht.
+
+Bettdecke liegen da gut.
+
+Bett sein gemacht sauber.
+
+Was soll ich da noch schließen!
+
+Achmed sehen Gesicht von lustigen Mann, der gucken blöd in Achmeds Zimmer.
+
+Moment...
+
+Achmed haben gesehen sein eigenes Spiegelbild.
+
+Ich sehe... eine Häuserwand.
+
+Und keine Fenster.
+
+Das Fenster ist fest im Rahmen verankert.
+
+Wie?
+
+Und wie?
+
+Achmed zu kalt draußen.
+
+Schon zu.
+
+Das Fenster ist bereits zu.
+
+Schublade>o
+
+Bücher
+
+großes Foto
+
+Schublade>c
+
+Achmed damals wusste noch nicht, dass dieses Ding können machen etwas heiss.
+
+Damals Achmed hat sich die Flossen daran verbrannt.
+
+Eine offene Mikrowelle; Leer.
+
+Sein mir zu schwer.
+
+Ohne Grund nehme ich die nicht mit.
+
+Achmed könnte ihn machen zu.
+
+Ohne Ei macht das keinen Spaß.
+
+Die ist doch schon auf.
+
+Achmed lassen sein, sollen nicht fallen um.
+
+Achmed wissen nicht richtig, wie dies heißen mag.
+
+Deswegen Achmed es nennen: 'Eis-Haus'!
+
+Achmeds Kühlschrank.
+
+Achmed sein zu schwer.
+
+Sein schon offen.
+
+Der ist doch schon auf.
+
+Sollen nix fallen raus.
+
+Das wackelt der ganze Kühlschrank. Hilfe!
+
+Schönes Wasser.
+
+Achmed müssen dringend aufs Klo!
+
+Kaltes klares Wasser.
+
+Wasser ziemlich kalt.
+
+Das Wasser hat einen angenehme Temperatur.
+
+Das Achmed nicht sein möglich.
+
+Wie genau stellst du dir das vor?
+
+Diese Stahlnase macht Wasser.
+
+Ein Wasserhahn aus Edelstahl.
+
+Gehen nicht.
+
+Dazu müsste ich ihn wegschrauben.
+
+Achmed damals wusste noch nicht, dass dieses Ding könne machen etwas heiß.
+
+Achmeds Mikrowelle.
+
+Vergiß es.
+
+Ich klau Achmed doch nicht seine Einzige Möglichkeit, mit der er zu warmem Essen kommt.
+
+Achmed nix haben zum reintun. Aber Achmed können vielleicht aufmachen.
+
+Da fehlt mir das Ei. Das würde Achmed aber Ärgern.
+
+Nix gut
+
+Ein Kühlschrank.
+
+Das sein guter Gag.
+
+Achmed müsste mal wieder zum Markt runter...
+
+Aktion nix gut.
+
+Das sein...
+
+...ähh...
+
+Blödes, amerikanisches Deutsch!
+
+Ein Herd. Deutsches Fabrikat. Warum auch immer.
+
+Der ist bestimmt gut festgemacht. Außerdem schleppe ich ungern solche großen Sachen mit mir.
+
+Achmed wollen es nicht benutzen.
+
+Mir fehlt die Pizza.
+
+Achmed wollen es nicht öffnen.
+
+Nene, wer weiß wie's da drin aussieht.
+
+Der Herd ist bereits geschlossen.
+
+Achmed nix machen das.
+
+Der bewegt sich nicht.
+
+Wasserhahn>u
+
+Wohnstube
+
+Herd
+
+Mikrowelle>c
+
+Kühlschrank>c
+
+Wasser
+
+Es liegt nichts drin.
+
+Sein verrückt?
+
+Die bracuhe ich nicht.
+
+Sein auf.
+
+Sie ist bereits auf.
+
+Das sein Spieler für kleine Teller mit Loch.
+
+Ein DVD-Spieler der Marke Edison-Electronics.
+
+Stehen da ganz gut.
+
+Würde ich gerne. Aber Achmed findet das besimmt heraus.
+
+Und auf Besuch seiner Familie habe ich keine Lust.
+
+Achmed brauchen Teller mit Loch um zu benutzen dies.
+
+Besorge mir eine CD oder DVD, dann sehen wir weiter.
+
+Brauchen noch nicht öffnen dies.
+
+Ohne CD/DVD?
+
+Bereits zu.
+
+Die Schublade ist bereits verschlossen.
+
+Achmed nix bringen das.
+
+Das sein Achmed mit Berno.
+
+Berno sein krasser Typ.
+
+Das Foto zeigt Bernard und Achmed.
+
+Achmed nix haben zum benutzen!
+
+Da ließen sich jetzt mit einem Faserschreiber tolle Sachen machen.
+
+Nix geht.
+
+Das sein flauschiges Sofa für Achmed.
+
+Ein weiches Sofa.
+
+Achmed wollen sich jetzt nicht setzen.
+
+Ich habe besseres zu tun.
+
+Achmed nix brauchen weiches Inneres.
+
+Da ist außer einer Füllung nichts interesantes drin. Oder?
+
+Sauber vernäht.
+
+Das Sofa ist bereits sauber vernäht.
+
+Sofa stehen gut.
+
+Achmeds Telefon.
+
+Achmed wissen nicht, wen anrufen soll.
+
+Wen soll ich anrufen?
+
+Achmed nix wollen machen kaputt.
+
+Das Telefon ist verschraubt.
+
+Das Telefon ist schon zu.
+
+Dann fallen runter.
+
+Äh... nein.
+
+Das sein Schranktür.
+
+Eine kleine Tür des Schränkchens.
+
+Achmeds Fernseher.
+
+Warum sollte ich ihm den Fernseher klauen wollen?
+
+Da laufen fetter Abspann.
+
+Küche
+
+DVD-Player
+
+Foto
+
+Sofa
+
+linke Schublade>o
+
+rechte Schublade>o
+
+linke Schublade>c
+
+rechte Schublade>c
+
+Achmed müssen mal wieder holen Sachen.
+
+Leer.
+
+Tür zu lose zu nehmnen.
+
+Achmed nix zum reintun haben.
+
+Ich will da nicht reinstellen.
+
+Sein offen.
+
+Die Tür ist bereits auf.
+
+Achmeds Schrank für Puderzeug und so.
+
+Was gucken du so komisch?!?
+
+Ein kleines Badschränckchen.
+
+Eine Kloschüssel. Diese hier steht in Achmeds Wohnung.
+
+kleiner Schrank>o
+
+Kleiner Schrank>c
+
+Da geht es zum Dachboden.
+
+Das führen zu Bodendach.
+
+Wer wohnt da eigentlich?
+
+Achmed fragen sich: Wer wohnen dort?
+
+Die ist mir zu schwer.
+
+Die Türklingel vom Inspektor.
+
+Das sein Türklingel von Inspektor.
+
+Ich brauche keine detektivische Leistung.
+
+Achmed wollen nicht zum Detektiv.
+
+Ich breche doch nicht in anderer Leute Wohnung ein.
+
+Achmed nix schauen in fremde Wohnung ohne Grund.
+
+Das Schild ist bereits zu.
+
+Achmed können nicht lesen Schild.
+
+Achmed müssen noch lernen Namen richtig zu lesen.
+
+Es öffnet keiner.
+
+Scheinen keiner drin zu sein.
+
+Cluso.
+
+Das ist seine Türklingel.
+
+Klingel von Detektiv sein.
+
+Klingelschild sein fest mit Wand gemacht.
+
+Nein, jetzt nicht.
+
+Achmed nicht wollen das.
+
+Die Klingel ist bereits ordnungsgemäß an der Wand befestigt.
+
+2. Etage
+
+Dachboden
+
+Syds und
+
+Achmeds Starterpack
+
+von Mister L und Mulle The Striker.
+
+Hintergrundbilder von
+
+Mister L und
+
+Mulle The Striker.
+
+Zusätzliche Grafiken von
+
+DernetteEddy.
+
+Beta Tester sind
+
+Bissiger Witzbold,
+
+Orange,
+
+ZENSIERT
+
+und khrismuc.
+
+Wir bedanken uns bei
+
+den Usern des
+
+Adventure-Treff Forums
+
+und des MMM-Portals.
+
+Besonderen Dank geht an:
+
+Chris Jones,
+
+LucasFan
+
+und Ron Gilbert.
+
+Ganz besonderen
+
+Dank an unsere
+
+Beta-Tester.
+
+Viel Spaß
+
+mit dem Starterpack!
+
+Bis bald!
+
+Eingang>v
+
+Syd/Achmed-Starterpack]
+
+MisterL (Original)
+
+Rulaman (neue Version)
+
+---
+
+Die Küchenschwingtür.
+
+Wie bitte?
+
+Ich gehe doch nicht in die Küche.
+
+Ich komme leider nicht ran.
+
+Dazu müsste ich näher ran...
+
+Ich will es nicht ziehen. Und selbst wenn, ich bin zu weit weg.
+
+Ich will es nicht drücken. Und selbst wenn, ich bin zu weit weg.
+
+Aus der rosa Flasche strömt ein angenehmer Duft aus.
+
+Da ist guter Wein drinnen. Leider nicht für mich.
+
+Die Stange einer Garderobe. Daran kann man seine Jacke aufhängen.
+
+Die Stange ist an der Garderobe festgemacht.
+
+Ich will meine Jacke nicht daran aufhängen.
+
+Der sitzt zu fest.
+
+Eine Garderobe. Man kann an der Stange seine Jacken aufhängen.
+
+Ich will keine Jacke daran aufhängen.
+
+Die Garderobe ist doch schon auf.
+
+Ich bin zu schwach um sie zu bewegen.
+
+Ein Schirmeimer.
+
+Den lass ich lieber stehen.
+
+Ich habe aktuell keinen Schirm, den ich da reintun könnte, bei mir.
+
+Der Eimer hat schon eine Öffnung.
+
+Ich habe noch keinen Schirmeimer mit Deckel zum Schließen gesehen.
+
+Das geht so nicht.
+
+Ein dreckiger Schuhabtreter.
+
+Außer Staub wird da nicht viel darunter sein.
+
+Meine Schuhe sind sauber.
+
+Das will ich nicht.
+
+Bilder von Jeffs Vorfahren.
+
+Ich klaue keine Ahnen.
+
+Diese Bilder zeigen einige von Jeffs Vorfahren.
+
+Die Bilder hängen direkt an der Wand. Da gibt es nichts zu öffnen.
+
+Das lääst sich nichts schließen.
+
+Die Bilder hängen da ganz gut.
+
+Da geht es in die Küche vom Shack.
+
+Es führt keine Tür zur Küche. Nur eine kleine Schwingtür.
+
+Die lass ich lieber in Ruhe.
+
+Das Weinregal des Lokals. Leider sind nicht mehr viele da.
+
+Ich klaue Jeffs Eltern doch nicht ihren Wein. Außerdem ist der für die Gäste.
+
+Da ist sogar noch ein Burgunder drin.
+
+Das Weinregal ist beretis offen.
+
+Das ist leider nicht abschließbar.
+
+Das Regal ist gut verschraubt. Es lässt sich nicht bewegen.
+
+Hier geht es zur Toilette des Shacks.
+
+Ich muss zur Zeit nicht, aber irgendwie meine ich immer...
+
+... dass die Toilette wie im Lokal in der Stadt aussieht.
+
+Eine Pflanze. Nicht zu vergleichen mit Chuck.
+
+Ich könnte ein Blatt abreißen, aber nicht jetzt.
+
+Dazu ist die Toilette da.
+
+Und sie aus dem Boden rausreißen?
+
+Gießen wäre möglich, aber ich habe kein Wasser bei mir.
+
+Die Pflanze steht da gut.
+
+Dieses Bild zeigt Griechenland.
+
+Ja, das würde sich gut in meiner Wohnung machen...
+
+Schön.
+
+Dahinter verbirgt sich nichts.
+
+Ich lass es lieber hängen.
+
+Einige Stühle.
+
+Ich brauche keinen.
+
+Setzen? - Nee.
+
+Das klappt nicht.
+
+Einige Tische.
+
+Nee.
+
+Rosa Flasche
+
+Weinflaschen
+
+Garderobenstange
+
+Garderobe
+
+Schirmeimer
+
+Schuhabtreter
+
+Bilder
+
+Weinregal
+
+Toilettentür
+
+Pflanze
+
+Bild
+
+Tische und Stühle
+
+Schwingtür
+
