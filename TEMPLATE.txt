@@ -1,6 +1,0 @@
-MMM-Starterpack
-
-Dieses Starterpack wurde mit der Version 3.3 des
-Adventure Game Studios erstellt (3.3.0.1160).
-
-Viel Spass beim Erstellen eines Spieles.
