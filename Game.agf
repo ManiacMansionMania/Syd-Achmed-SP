@@ -3771,6 +3771,11 @@
           <Name>g_PlayerCanMove</Name>
           <Type>int</Type>
         </GlobalVariable>
+        <GlobalVariable>
+          <DefaultValue>0</DefaultValue>
+          <Name>AchmedLookAtMessage</Name>
+          <Type>int</Type>
+        </GlobalVariable>
       </Variables>
     </GlobalVariables>
     <Sprites>
